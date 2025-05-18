@@ -39,5 +39,6 @@ Esta é uma ferramenta simples, criada em Excel, que simula o crescimento do pat
 ---
 
 ## Feito por
-Carlos Brunetti | @hbrunetti
+Carlos Brunetti
+🔗 [linkedin.com/in/carlosbrunetti](https://www.linkedin.com/in/carlosbrunetti/)
 
