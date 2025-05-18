@@ -26,7 +26,7 @@ Esta é uma ferramenta simples, criada em Excel, que simula o crescimento do pat
 
 ## Arquivos
 
-- `CB_Invest.xlsx` – Planilha principal com as simulações
+- `CB_Invest.xlsx` – [Baixar a planilha CB_INVEST.xlsx](CB_INVEST.xlsx) Planilha principal com as simulações
 - `readme.md` – Este documento
 
 ---
